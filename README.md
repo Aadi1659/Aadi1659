@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aadityadev1659@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1iYZhvWQd4Jlacet1U0BO83i2zAReYdOI/view?usp=sharing](https://drive.google.com/file/d/1iYZhvWQd4Jlacet1U0BO83i2zAReYdOI/view?usp=sharing)
+- 📄 My Resume [https://drive.google.com/file/d/1iYZhvWQd4Jlacet1U0BO83i2zAReYdOI/view?usp=sharing](https://drive.google.com/file/d/1iYZhvWQd4Jlacet1U0BO83i2zAReYdOI/view?usp=sharing)
 
 - ⚡ Fun fact **People call me "Dev"loper**
 
