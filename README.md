@@ -119,17 +119,6 @@
 ---
 
 ### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aadi1659&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aaditya's GitHub Stats" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadi1659&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Aadi1659&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aadi1659&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
 </p>
